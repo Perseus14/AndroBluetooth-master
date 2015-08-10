@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="net.londatiga.android.bluetooth.StartActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" android:showAsAction="never" />
+
+
+        <!-- Adds an item to the list. -->
+        <item android:id="@+id/action_previous"
+            android:title="@string/action_previous"
+            android:showAsAction="ifRoom|withText" />
+
+
+</menu>
+<!-- From: file:/J:/AndroBluetooth-master/app/src/main/res/menu/menu_start.xml -->
